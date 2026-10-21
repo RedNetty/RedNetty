@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,100:dc2626&height=180&section=header&text=Jack%20%E2%80%94%20RedNetty&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20CodeRed&descAlignY=58&descSize=16" alt="Jack — RedNetty" width="100%"/>
 
 <a href="https://github.com/RedNetty">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=620&lines=Game+servers+%26+MMORPG+systems;Voice+assistants+that+run+on+your+own+hardware;Assistive+speech+technology;Java+%C2%B7+Rust+%C2%B7+Python+%C2%B7+JavaScript" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=DC2626&center=true&vCenter=true&width=620&lines=Game+servers+%26+MMORPG+systems;Voice+assistants+that+run+on+your+own+hardware;Backend+services+%26+data+systems;Java+%C2%B7+Rust+%C2%B7+Python+%C2%B7+JavaScript" alt="Typing intro"/>
 </a>
 
 <p>
@@ -18,10 +18,10 @@
 
 I'm Jack, a software developer who has been writing code since 2013. I started out building
 Minecraft game servers and grew into backend systems, multiplayer game engines and applied
-machine learning. I like projects where performance matters and where the result is used by real people.
+machine learning. I like projects where performance matters and where real people use the result.
 
 - **Game development:** MMORPG servers on the Spigot API, and a voxel MMO engine in Rust
-- **Applied ML:** speech recognition for people with speech impairments, and local voice assistants
+- **Applied ML:** local voice assistants, OCR and on-device inference
 - **Backend:** Java and Spring Boot services, SQL and MongoDB data layers, REST and WebSocket APIs
 - **Hardware:** Raspberry Pi devices, smart mirrors and on-device inference
 
@@ -41,7 +41,7 @@ machine learning. I like projects where performance matters and where the result
 <tr>
 <td width="50%" valign="top">
 
-### 🪞 [IRIS for MagicMirror²](https://github.com/RedNetty/MMM-AI-Jarvis)
+### [IRIS for MagicMirror²](https://github.com/RedNetty/MMM-AI-Jarvis)
 A private, voice-controlled assistant for MagicMirror². It shows weather, markets, news and live
 sports on animated cards, picks outfits from your wardrobe, and runs the whole mirror by voice.
 Speech, language, vision and voice all run locally.
@@ -53,22 +53,20 @@ Speech, language, vision and voice all run locally.
 </td>
 <td width="50%" valign="top">
 
-### 🗣️ [WillSpeak](https://github.com/RedNetty/WillSpeak)
-Assistive speech technology for people with conditions like cerebral palsy. It learns a
-user's speech patterns and produces clearer audio in real time, with personalized models
-and a feedback loop.
+### [IPGeolocate-Java](https://github.com/RedNetty/IPGeolocate-Java)
+A Java library and Swing desktop app that maps IPv4 and IPv6 addresses to city, region,
+country, timezone and ISP through the ipgeolocation.io API.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-4B5563?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [Neolithic OCR](https://github.com/RedNetty/Neolithic-OCR)
-Screen-capture OCR for contracted work supporting students with learning disabilities.
+### [Neolithic OCR](https://github.com/RedNetty/Neolithic-OCR)
+Screen-capture OCR built as contract work.
 Select any region of the screen, extract its text with Tesseract and analyse it with GPT-4.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -78,7 +76,7 @@ Select any region of the screen, extract its text with Tesseract and analyse it 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Messengr](https://github.com/RedNetty/Messengr)
+### [Messengr](https://github.com/RedNetty/Messengr)
 A multi-client TCP chat server and client with rooms, private messages, admin commands,
 auto-reconnect and message history. It uses a thread pool and concurrent data structures.
 
@@ -91,7 +89,7 @@ auto-reconnect and message history. It uses a thread pool and concurrent data st
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ [Lionic](https://github.com/RedNetty/Lionic)
+### [Lionic](https://github.com/RedNetty/Lionic)
 A PostgreSQL data-management system with HikariCP connection pooling, a repository-pattern
 data layer, typed errors and an interactive CLI.
 
@@ -101,7 +99,7 @@ data layer, typed errors and an interactive CLI.
 </td>
 <td width="50%" valign="top">
 
-### 🖱️ [YakClicker](https://github.com/RedNetty/YakClicker)
+### [YakClicker](https://github.com/RedNetty/YakClicker)
 A desktop autoclicker with a FlatLaf UI, humanized click timing, global hotkeys,
 pattern recording and per-platform input handling.
 
@@ -118,10 +116,8 @@ pattern recording and per-platform input handling.
 
 | Project | Description | Stack |
 |---|---|---|
-| [IPGeolocate-Java](https://github.com/RedNetty/IPGeolocate-Java) | Library and desktop app that maps IP addresses to locations | Java, REST |
 | [PollPlugin](https://github.com/RedNetty/PollPlugin) | GUI polling system for Minecraft servers | Java, Spigot, MongoDB |
 | [ProductiveDay](https://github.com/RedNetty/ProductiveDay) | Task and time-management utility | Java |
-| [WillSpeak Data Collection Tool](https://github.com/RedNetty/WillSpeak-Data-Collection-Tool) | Records training data for the WillSpeak pipeline | Java |
 | [Enhanced X UP](https://github.com/RedNetty/Enhanced-X-UP) | ArcheAge Classic add-on for raid invites and player blacklists | Lua |
 
 </details>

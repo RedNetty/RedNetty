@@ -122,16 +122,6 @@ pattern recording and per-platform input handling.
 
 </details>
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RedNetty&show_icons=true&hide_border=true&bg_color=0d1117&title_color=dc2626&icon_color=dc2626&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedNetty&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc2626&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RedNetty&hide_border=true&background=0d1117&ring=dc2626&fire=dc2626&currStreakLabel=dc2626&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Contribution streak"/>
-</p>
-
 ## Get in touch
 
 <p align="center">
